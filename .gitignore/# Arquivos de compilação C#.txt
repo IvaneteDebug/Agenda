@@ -1,0 +1,12 @@
+# Arquivos de compilação C#
+*.dll
+*.exe
+*.pdb
+*.user
+*.bak
+
+# Arquivos de projeto C#
+*.csproj
+*.vscode/
+obj/
+bin/
